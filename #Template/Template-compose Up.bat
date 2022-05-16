@@ -1,1 +1,0 @@
-docker compose -f "%~dp0docker-compose.yaml" up --detach
