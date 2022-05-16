@@ -1,4 +1,9 @@
 # DockerDex
-This contains, my templates for docker compose and portainer stacks
+This contains, my templates and scripts for docker compose and portainer stacks
 
-Rename #Template folder and Template in the scripts to whatever docker project your working on
+# #Template
+- Scaffolding for Docker and Portainer yaml config files
+# #Scripts
+- Bash, Batch, Powershell scripts for Container and Image operations
+
+Rename #Template folder to whatever docker project you're working on
