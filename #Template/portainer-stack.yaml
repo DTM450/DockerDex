@@ -1,3 +1,3 @@
 #  /run/desktop/mnt/host/*drive*/%path%  |  Use this mapping for docker-desktop on WSL
-#  /run/desktop/mnt/host/e/DockerDex
+#  /run/desktop/mnt/host/e/DockerDex/____/DATA
 
